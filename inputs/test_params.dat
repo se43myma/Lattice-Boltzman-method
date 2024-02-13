@@ -1,0 +1,10 @@
+sizex 250
+sizey 110
+timesteps 20000
+uin 0.02
+Re 50
+spherex 90
+spherey 50
+diameter 40
+vtk_file test_flow
+vtk_step 200
